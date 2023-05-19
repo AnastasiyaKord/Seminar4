@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\bin\Debug\net7.0\Задача19ДЗ.exe
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\bin\Debug\net7.0\Задача19ДЗ.deps.json
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\bin\Debug\net7.0\Задача19ДЗ.runtimeconfig.json
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\bin\Debug\net7.0\Задача19ДЗ.dll
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\bin\Debug\net7.0\Задача19ДЗ.pdb
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.dll
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\refint\Задача19ДЗ.dll
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.pdb
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\Задача19ДЗ.genruntimeconfig.cache
+C:\Users\akordel\Desktop\Seminar4\Задача19ДЗ\obj\Debug\net7.0\ref\Задача19ДЗ.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача19ДЗ/1.0.0": {
+        "runtime": {
+          "Задача19ДЗ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача19ДЗ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
